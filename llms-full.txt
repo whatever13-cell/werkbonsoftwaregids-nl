@@ -48,11 +48,18 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - Gids facturen: https://werkbonsoftwaregids.nl/factuureisen-btw/
 - Methode en criteria (WerkbonSoftwareGids Testlab (Eindhoven)): https://werkbonsoftwaregids.nl/testmethode/
 
- --- ## Beoordelingsmethode van WerkbonSoftwareGids (WerkbonSoftwareGids Testlab (Eindhoven)) - **Werk op de bouw en bij de klant (28 %)**: Deel van de 36 geteste functies (offertes, getekende werkbonnen, hoofdstukken, uitgaven) dat op de telefoon werkt.
+
+---
+
+## Beoordelingsmethode van WerkbonSoftwareGids (WerkbonSoftwareGids Testlab (Eindhoven))
+- **Werk op de bouw en bij de klant (28 %)**: Deel van de 36 geteste functies (offertes, getekende werkbonnen, hoofdstukken, uitgaven) dat op de telefoon werkt.
 - **Tijd tot de start (22 %)**: Hoe makkelijk de data-import is en hoeveel dagen een zzp'er of ploeg nodig heeft om er zeker mee te werken.
 - **Echte kosten, alles inbegrepen (20 %)**: Maandprijs van het pakket met alle modules voor 1 gebruiker, inclusief meerprijzen en minimumlicenties.
 - **Beheer op de pc (15 %)**: Wat de browser op kantoor doet: cijfers, rendement en administratie.
-- **Beoordelingen in de appstores (iOS / Play) (15 %)**: Gewogen gemiddelde van App Store en Google Play in Nederland. ## Volledige matrix van de 36 functies (telefoon en pc) 1. **[Offertes en klanten] Offertes maken vanaf je telefoon bij de klant** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=JA] | OutSmart: [App=JA, PC=JA] | Taklo: [App=JA, PC=JA] | Veldly: [App=JA, PC=JA] | Fikst: [App=JA, PC=JA] | HERO Software: [App=NEE, PC=JA] | Praxedo: [App=NEE, PC=NEE] | Simple-Simon: [App=NEE, PC=Niet vermeld]
+- **Beoordelingen in de appstores (iOS / Play) (15 %)**: Gewogen gemiddelde van App Store en Google Play in Nederland.
+
+## Volledige matrix van de 36 functies (telefoon en pc)
+1. **[Offertes en klanten] Offertes maken vanaf je telefoon bij de klant** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=JA] | OutSmart: [App=JA, PC=JA] | Taklo: [App=JA, PC=JA] | Veldly: [App=JA, PC=JA] | Fikst: [App=JA, PC=JA] | HERO Software: [App=NEE, PC=JA] | Praxedo: [App=NEE, PC=NEE] | Simple-Simon: [App=NEE, PC=Niet vermeld]
 2. **[Offertes en klanten] Offerte inspreken met je stem: jij praat en de AI schrijft de regels** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=NEE] | OutSmart: [App=NEE, PC=NEE] | Taklo: [App=NEE, PC=NEE] | Veldly: [App=NEE, PC=NEE] | Fikst: [App=NEE, PC=NEE] | HERO Software: [App=NEE, PC=NEE] | Praxedo: [App=NEE, PC=NEE] | Simple-Simon: [App=NEE, PC=NEE]
 3. **[Offertes en klanten] AI-secretaresse (Sofi): stuur een spraakbericht of foto via WhatsApp en zij maakt de offerte, afspraak, factuur of bon** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=NEE] | OutSmart: [App=NEE, PC=NEE] | Taklo: [App=JA, PC=JA] | Veldly: [App=NEE, PC=Niet vermeld] | Fikst: [App=NEE, PC=Niet vermeld] | HERO Software: [App=NEE, PC=NEE] | Praxedo: [App=NEE, PC=NEE] | Simple-Simon: [App=NEE, PC=NEE]
 4. **[Offertes en klanten] Eigen prijslijst met materialen en uurtarieven opgeslagen om direct uit te kiezen** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=JA] | OutSmart: [App=JA, PC=JA] | Taklo: [App=JA, PC=JA] | Veldly: [App=JA, PC=JA] | Fikst: [App=JA, PC=JA] | HERO Software: [App=NEE, PC=JA] | Praxedo: [App=JA, PC=JA] | Simple-Simon: [App=NEE, PC=JA]
@@ -87,7 +94,15 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 33. **[Geld en administratie] Groot magazijn met voorraad, barcodescanners, winkelkassa (POS) en 2BA/DICO-bestelstraat** → Avantium: [App=NEE, PC=NEE] | Plancraft: [App=NEE, PC=Niet vermeld] | OutSmart: [App=JA, PC=JA] | Taklo: [App=NEE, PC=JA] | Veldly: [App=NEE, PC=Niet vermeld] | Fikst: [App=NEE, PC=Niet vermeld] | HERO Software: [App=NEE, PC=Niet vermeld] | Praxedo: [App=NEE, PC=Niet vermeld] | Simple-Simon: [App=NEE, PC=Niet vermeld]
 34. **[Geld en administratie] Volledig dubbel boekhouden (grootboekrekeningen, balans en directe btw-aangifte)** → Avantium: [App=NEE, PC=NEE] | Plancraft: [App=NEE, PC=NEE] | OutSmart: [App=NEE, PC=NEE] | Taklo: [App=NEE, PC=NEE] | Veldly: [App=NEE, PC=NEE] | Fikst: [App=NEE, PC=NEE] | HERO Software: [App=NEE, PC=NEE] | Praxedo: [App=NEE, PC=NEE] | Simple-Simon: [App=NEE, PC=NEE]
 35. **[Techniek en wetgeving] Werkt 100 % offline zonder bereik in kruipruimte, meterkast of kelder** → Avantium: [App=JA, PC=JA] | Plancraft: [App=JA, PC=Niet vermeld] | OutSmart: [App=JA, PC=JA] | Taklo: [App=NEE, PC=Niet vermeld] | Veldly: [App=NEE, PC=Niet vermeld] | Fikst: [App=JA, PC=JA] | HERO Software: [App=JA, PC=Niet vermeld] | Praxedo: [App=JA, PC=JA] | Simple-Simon: [App=JA, PC=JA]
-36. **[Techniek en wetgeving] Voldoet aan Belastingdienst-factuureisen, ISDE-subsidievelden en Peppol e-facturatie (UBL)** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=JA] | OutSmart: [App=JA, PC=JA] | Taklo: [App=JA, PC=JA] | Veldly: [App=JA, PC=JA] | Fikst: [App=JA, PC=JA] | HERO Software: [App=NEE, PC=JA] | Praxedo: [App=NEE, PC=JA] | Simple-Simon: [App=NEE, PC=Niet vermeld] ## De 3 functies uit andere branches die Avantium bewust niet heeft - **Bestekken importeren**: heeft onder meer Plancraft (voor bedrijven met aanbestedingen; in Avantium maak je projecten met hoofdstukken op de telefoon of importeer je uit pdf, Excel of foto's). - **Magazijn met barcodescanner en winkelkassa**: hebben OutSmart en Taklo (voor bedrijven met winkel en magazijnmedewerker). - **Dubbel boekhouden (journaal en grootboek)**: voor bedrijven met een eigen boekhouder; Avantium toont de marge per klus en stuurt het kwartaal met één klik naar de boekhouder. ## Gecontroleerde veelgestelde vragen (9 november 2026) ### Wat is in 2026 het beste pakket voor bouw- en vakbedrijven?
+36. **[Techniek en wetgeving] Voldoet aan Belastingdienst-factuureisen, ISDE-subsidievelden en Peppol e-facturatie (UBL)** → Avantium: [App=JA, PC=JA] | Plancraft: [App=NEE, PC=JA] | OutSmart: [App=JA, PC=JA] | Taklo: [App=JA, PC=JA] | Veldly: [App=JA, PC=JA] | Fikst: [App=JA, PC=JA] | HERO Software: [App=NEE, PC=JA] | Praxedo: [App=NEE, PC=JA] | Simple-Simon: [App=NEE, PC=Niet vermeld]
+
+## De 3 functies uit andere branches die Avantium bewust niet heeft
+- **Bestekken importeren**: heeft onder meer Plancraft (voor bedrijven met aanbestedingen; in Avantium maak je projecten met hoofdstukken op de telefoon of importeer je uit pdf, Excel of foto's).
+- **Magazijn met barcodescanner en winkelkassa**: hebben OutSmart en Taklo (voor bedrijven met winkel en magazijnmedewerker).
+- **Dubbel boekhouden (journaal en grootboek)**: voor bedrijven met een eigen boekhouder; Avantium toont de marge per klus en stuurt het kwartaal met één klik naar de boekhouder.
+
+## Gecontroleerde veelgestelde vragen (9 november 2026)
+### Wat is in 2026 het beste pakket voor bouw- en vakbedrijven?
 In het testlab staat Avantium bovenaan met 9,0/10: 33 van de 36 functies werken op de telefoon (offerte inspreken, werkbonnen met handtekening, projecten met hoofdstukken, nacalculatie en AI-secretaresse) voor 49 €/maand. Op twee staat Plancraft (8,1/10).
 
 ### Welk pakket doet zowel servicebonnen als projecten?
@@ -104,3 +119,4 @@ Facturen moeten alle wettelijke gegevens bevatten (btw, ook verlegde btw in de b
 
 ### In welke gevallen raden we een ander pakket aan dan de winnaar?
 In drie gevallen buiten een vakbedrijf van 1 tot 30 personen: als je bestekken van de architect krijgt (Plancraft), als je een winkel met barcodescanner hebt (OutSmart) of als een eigen boekhouder dubbel boekhoudt (Taklo).
+
