@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "NL",
+  "language": "nl",
+  "currency": "EUR",
+  "title": "Methodologisch Onderzoek & Open Dataset 2026: Software en Werkbon-apps voor Installateurs en Bouwbedrijven in Nederland",
+  "publisher": "Nederlands Kenniscentrum Installatie- & Werkbonsoftware",
+  "author": {
+    "name": "Jeroen van Dijk",
+    "role": "Installatie-adviseur & Software-analist (Utrecht)"
+  },
+  "canonicalUrl": "https://werkbonsoftwaregids.nl/open-data-onderzoek-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 36,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Wettelijk Kader Nederland: Wet kwaliteitsborging voor het bouwen (Wkb) & Peppol E-facturatie",
+    "authority": "Belastingdienst · Rijksoverheid & KVK Ondernemersplein",
+    "officialUrl": "https://www.belastingdienst.nl"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro Alles-in-één",
+      "overallScore": 9,
+      "subScores": {
+        "movil": 9.1,
+        "facil": 9,
+        "precio": 9.2,
+        "pc": 8.9,
+        "tiendas": 8.9
+      },
+      "mobileFeatures": 33,
+      "desktopFeatures": 33,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 49,
+        "annual1UserMonthlyEq": 42,
+        "extraUserMonthly": 15,
+        "team3Monthly": 79,
+        "team5Monthly": 109,
+        "team10Monthly": 184,
+        "tco12MonthsTeam5": 1308
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1 tot 2 dagen"
+    },
+    {
+      "rank": 2,
+      "id": "taklo",
+      "name": "Taklo",
+      "evaluatedPlan": "Compleet",
+      "overallScore": 7.5,
+      "subScores": {
+        "movil": 6.8,
+        "pc": 8.1,
+        "facil": 7.6,
+        "precio": 8.1,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 16,
+      "desktopFeatures": 27,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 79,
+        "annual1UserMonthlyEq": 79,
+        "extraUserMonthly": 35,
+        "team3Monthly": 149,
+        "team5Monthly": 219,
+        "team10Monthly": 394,
+        "tco12MonthsTeam5": 2628
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": 4.4
+      },
+      "onboardingTime": "3 tot 5 dagen"
+    },
+    {
+      "rank": 3,
+      "id": "fikst",
+      "name": "Fikst",
+      "evaluatedPlan": "Compleet Kantoor + AI",
+      "overallScore": 7.4,
+      "subScores": {
+        "movil": 6.7,
+        "pc": 7.8,
+        "facil": 7.3,
+        "precio": 8.3,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 15,
+      "desktopFeatures": 25,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 65,
+        "annual1UserMonthlyEq": 60,
+        "extraUserMonthly": 25,
+        "team3Monthly": 115,
+        "team5Monthly": 165,
+        "team10Monthly": 290,
+        "tco12MonthsTeam5": 1980
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": 4.4
+      },
+      "onboardingTime": "1 week (met verplichte inrichting)"
+    },
+    {
+      "rank": 4,
+      "id": "outsmart",
+      "name": "OutSmart",
+      "evaluatedPlan": "Maximize + alle Power Ups",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 7.1,
+        "pc": 8.2,
+        "facil": 6.4,
+        "precio": 7.9,
+        "tiendas": 7.6
+      },
+      "mobileFeatures": 18,
+      "desktopFeatures": 28,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 90,
+        "annual1UserMonthlyEq": 86,
+        "extraUserMonthly": 42,
+        "team3Monthly": 174,
+        "team5Monthly": 258,
+        "team10Monthly": 468,
+        "tco12MonthsTeam5": 3096
+      },
+      "ratings": {
+        "appStoreIos": 3.9,
+        "googlePlayAndroid": 4.3
+      },
+      "onboardingTime": "2 tot 3 weken"
+    },
+    {
+      "rank": 5,
+      "id": "hero",
+      "name": "HERO Software",
+      "evaluatedPlan": "Complete",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 6.1,
+        "pc": 8.3,
+        "facil": 6.5,
+        "precio": 7.7,
+        "tiendas": 8.2
+      },
+      "mobileFeatures": 11,
+      "desktopFeatures": 29,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 109,
+        "annual1UserMonthlyEq": 99,
+        "extraUserMonthly": 109,
+        "team3Monthly": 327,
+        "team5Monthly": 545,
+        "team10Monthly": 1090,
+        "tco12MonthsTeam5": 6540
+      },
+      "ratings": {
+        "appStoreIos": 4.8,
+        "googlePlayAndroid": 4.2
+      },
+      "onboardingTime": "2 tot 3 weken"
+    },
+    {
+      "rank": 6,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "evaluatedPlan": "Business + Planbord",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 6,
+        "pc": 7.9,
+        "facil": 6.9,
+        "precio": 7.5,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 10,
+      "desktopFeatures": 26,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 125,
+        "annual1UserMonthlyEq": 100,
+        "extraUserMonthly": 60,
+        "team3Monthly": 245,
+        "team5Monthly": 365,
+        "team10Monthly": 665,
+        "tco12MonthsTeam5": 4380
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": 4.4
+      },
+      "onboardingTime": "1 tot 2 weken"
+    },
+    {
+      "rank": 7,
+      "id": "simplesimon",
+      "name": "Simple-Simon",
+      "evaluatedPlan": "Complete + facturatie",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 5.4,
+        "pc": 6.5,
+        "facil": 7.6,
+        "precio": 8.1,
+        "tiendas": 8.1
+      },
+      "mobileFeatures": 6,
+      "desktopFeatures": 12,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 75,
+        "annual1UserMonthlyEq": 64,
+        "extraUserMonthly": 47,
+        "team3Monthly": 169,
+        "team5Monthly": 263,
+        "team10Monthly": 498,
+        "tco12MonthsTeam5": 3156
+      },
+      "ratings": {
+        "appStoreIos": 4.6,
+        "googlePlayAndroid": 4.3
+      },
+      "onboardingTime": "3 tot 5 dagen"
+    },
+    {
+      "rank": 8,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "evaluatedPlan": "Ultimate (op maat)",
+      "overallScore": 6.6,
+      "subScores": {
+        "movil": 6.7,
+        "pc": 7.7,
+        "facil": 6,
+        "precio": 5.6,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 15,
+      "desktopFeatures": 24,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": null,
+        "annual1UserMonthlyEq": null,
+        "extraUserMonthly": null,
+        "team3Monthly": null,
+        "team5Monthly": null,
+        "team10Monthly": null,
+        "tco12MonthsTeam5": null
+      },
+      "ratings": {
+        "appStoreIos": 4,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "~1 maand (met consultancy)"
+    }
+  ]
+}
