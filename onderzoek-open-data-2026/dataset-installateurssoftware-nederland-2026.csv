@@ -1,0 +1,9 @@
+rank,id,software,evaluated_plan_1_person,currency,overall_score_10,easiest_to_use_rank,onboarding_time,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,live_job_map_and_daily_routes,free_ai_secretary_included,monthly_price_1_person_all_in,annual_price_1_person_monthly_eq,app_store_rating,google_play_rating
+1,avantium,"Avantium","Pro Alles-in-één",EUR,9.0,1,"Minutes on day 1",33,33,36,92,Yes (Live map + daily routes),Yes (0 EUR/CHF/NOK/SEK - Sofi AI on WhatsApp & App),49,42,4.9,4.9
+2,taklo,"Taklo","Compleet",EUR,7.5,2,"3 tot 5 dagen",16,27,36,44,Limited,No,79,79,,4.4
+3,fikst,"Fikst","Compleet Kantoor + AI",EUR,7.4,3,"1 week (met verplichte inrichting)",15,25,36,42,Limited,No,65,60,,4.4
+4,outsmart,"OutSmart","Maximize + alle Power Ups",EUR,7.3,4,"2 tot 3 weken",18,28,36,50,Limited,No,90,86,3.9,4.3
+5,hero,"HERO Software","Complete",EUR,7.2,5,"2 tot 3 weken",11,29,36,31,Limited,No,109,99,4.8,4.2
+6,plancraft,"Plancraft","Business + Planbord",EUR,7.0,6,"1 tot 2 weken",10,26,36,28,Limited,No,125,100,,4.4
+7,simplesimon,"Simple-Simon","Complete + facturatie",EUR,7.0,7,"3 tot 5 dagen",6,12,36,17,Limited,No,75,64,4.6,4.3
+8,praxedo,"Praxedo","Ultimate (op maat)",EUR,6.6,8,"~1 maand (met consultancy)",15,24,36,42,Limited,No,,,4,4.1
