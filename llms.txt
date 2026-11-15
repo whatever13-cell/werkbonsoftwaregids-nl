@@ -121,6 +121,19 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Koppeling met je boekhouding](https://werkbonsoftwaregids.nl/boekhoudkoppeling-exact-moneybird-twinfield/): Exact, Moneybird, Twinfield en meer
 - [Alternatieven voor OutSmart](https://werkbonsoftwaregids.nl/alternatieven-outsmart-2026/): Pakketten om te vergelijken
 
+### Cao en lonen
+
+- [Cao Metaal en Techniek 2026-2028](https://werkbonsoftwaregids.nl/cao/cao-metaal-en-techniek/): Loonsverhoging, looptijd en wat het installatiebedrijf regelt
+- [bpfBOUW pensioenpremie 2026](https://werkbonsoftwaregids.nl/cao/bpfbouw-pensioen/): Wat werkgever en werknemer betalen
+- [Cao Metalektro 2026](https://werkbonsoftwaregids.nl/cao/cao-metalektro/): Salaristabel en voor wie hij geldt
+- [Cao Bouw & Infra 2026](https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/): Garantielonen en rekenhulp
+
+### Sjablonen
+
+- [Factuur voorbeeld](https://werkbonsoftwaregids.nl/sjablonen/factuur-voorbeeld/): Word en Excel voor vakmensen
+- [Offerte maken](https://werkbonsoftwaregids.nl/sjablonen/offerte-maken/): Sjabloon en de regels van het BW
+- [Betalingsherinnering](https://werkbonsoftwaregids.nl/sjablonen/betalingsherinnering/): Herinnering en 14-dagenbrief
+
 ### Rekenhulp
 
 - [Wettelijke rente berekenen](https://werkbonsoftwaregids.nl/rekenhulp/wettelijke-rente-berekenen/): 4 % of 10,4 % handelsrente
@@ -146,10 +159,18 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 
 ### Bedrijf
 
+- [KVK inschrijven](https://werkbonsoftwaregids.nl/bedrijf/kvk-inschrijven/): Eenmanszaak: data, kosten, stappen
+- [Wet DBA en schijnzelfstandigheid](https://werkbonsoftwaregids.nl/bedrijf/wet-dba-schijnzelfstandigheid/): Stand 2026 en check voor de bouw
 - [Wettelijke rente op je factuur](https://werkbonsoftwaregids.nl/rekenhulp/wettelijke-rente-berekenen/): Particulier 4 %, zakelijk 10,4 %
 - [Ketenaansprakelijkheid en g-rekening](https://werkbonsoftwaregids.nl/belasting/g-rekening-ketenaansprakelijkheid/): Voor aannemer en onderaannemer
+- [Aanmaning en incasso](https://werkbonsoftwaregids.nl/bedrijf/aanmaning-en-incasso/): Van vervaldatum tot rechter
 - [Incassokosten en 14-dagenbrief](https://werkbonsoftwaregids.nl/rekenhulp/incassokosten-berekenen/): Wat je mag rekenen bij een wanbetaler
+- [Meerwerk en stelposten](https://werkbonsoftwaregids.nl/bedrijf/meerwerk-en-stelposten/): Wanneer mag je meer rekenen
 
 ### Regels
 
+- [VCA-diploma en certificaat](https://werkbonsoftwaregids.nl/regels/vca-certificaat/): Welk diploma, hoe lang geldig
+- [Besluit bouwwerken leefomgeving](https://werkbonsoftwaregids.nl/regels/besluit-bouwwerken-leefomgeving/): Welke norm voor jouw installatie
+- [NEN 3140](https://werkbonsoftwaregids.nl/regels/nen-3140/): Wat de wet vraagt en hoe vaak keuren
+- [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
 - [Spanningsval en kabeldoorsnede](https://werkbonsoftwaregids.nl/rekenhulp/kabeldoorsnede-berekenen/): NEN 1010 en de wet van Ohm
