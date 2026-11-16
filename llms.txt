@@ -137,6 +137,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Betalingsherinnering](https://werkbonsoftwaregids.nl/sjablonen/betalingsherinnering/): Herinnering en 14-dagenbrief
 - [Werkbon](https://werkbonsoftwaregids.nl/sjablonen/werkbon/): Word en Excel, met handtekening
 - [Opleverrapport](https://werkbonsoftwaregids.nl/sjablonen/opleverrapport/): Gebrekenlijst, depot en termijnen
+- [Urenregistratie-template](https://werkbonsoftwaregids.nl/sjablonen/urenregistratie-template/): Weekstaat en urenteller, Word en Excel
 
 ### Rekenhulp
 
@@ -156,6 +157,9 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Uurtarief schilder](https://werkbonsoftwaregids.nl/uurtarief/schilder/): Cao-loon, 9 % btw en tarief
 - [Uurtarief elektricien](https://werkbonsoftwaregids.nl/uurtarief/elektricien/): Van cao-loon naar tarief, 2026
 - [Uurtarief loodgieter](https://werkbonsoftwaregids.nl/uurtarief/loodgieter/): Ook 's avonds en in het weekend
+- [Uurtarief timmerman](https://werkbonsoftwaregids.nl/uurtarief/timmerman/): Van cao-loon naar tarief, 2026
+- [Uurtarief tegelzetter](https://werkbonsoftwaregids.nl/uurtarief/tegelzetter/): Per uur en per m², 2026
+- [Uurtarief dakdekker](https://werkbonsoftwaregids.nl/uurtarief/dakdekker/): Kostprijs, isolatie en veiligheid
 
 ### Belasting
 
