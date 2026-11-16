@@ -115,6 +115,10 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 
 ### Software
 
+- [Werkbon-app: wat kost het?](https://werkbonsoftwaregids.nl/software/werkbon-app/): Prijs per team, gelezen 16-11
+- [Offertesoftware](https://werkbonsoftwaregids.nl/software/offerte-software/): Waar offertes in de prijs zitten
+- [Software voor installateurs](https://werkbonsoftwaregids.nl/software/software-voor-installateurs/): Kantoor en monteurs apart gerekend
+- [Planningsoftware installateur](https://werkbonsoftwaregids.nl/software/planning-software-installateur/): Planbord: inbegrepen of optie
 - [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, alles inbegrepen
 - [Urenregistratie met gps](https://werkbonsoftwaregids.nl/urenregistratie-bouw-app-gps/): Apps die het op je telefoon kunnen
 - [Pakbonnen scannen](https://werkbonsoftwaregids.nl/inkoopbonnen-scannen-pakbon-app/): Apps die bonnen lezen
@@ -187,6 +191,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [AOV voor zzp'ers](https://werkbonsoftwaregids.nl/bedrijf/aov-zzp/): Wat er komt en wat nu al kan
 - [Zzp of bv](https://werkbonsoftwaregids.nl/bedrijf/zzp-of-bv/): Wanneer een bv loont, met de som
 - [Wet kwaliteitsborging (Wkb)](https://werkbonsoftwaregids.nl/bedrijf/wet-kwaliteitsborging/): Wat al geldt, en wanneer meer
+- [Garantie en verborgen gebreken](https://werkbonsoftwaregids.nl/bedrijf/garantie-en-verborgen-gebreken/): Hoe lang je aansprakelijk bent
 
 ### Regels
 
