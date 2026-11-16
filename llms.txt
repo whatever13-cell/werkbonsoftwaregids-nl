@@ -191,5 +191,6 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [NEN 3140](https://werkbonsoftwaregids.nl/regels/nen-3140/): Wat de wet vraagt en hoe vaak keuren
 - [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
 - [Asbestinventarisatie](https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/): Wanneer verplicht, en de uitzonderingen
+- [F-gassen-certificaat](https://werkbonsoftwaregids.nl/regels/f-gassen-certificaat/): Categorie A1 tot E en BRL 100
 - [Urenregistratie](https://werkbonsoftwaregids.nl/regels/urenregistratie/): Verplicht? Voor personeel en zzp
 - [Spanningsval en kabeldoorsnede](https://werkbonsoftwaregids.nl/rekenhulp/kabeldoorsnede-berekenen/): NEN 1010 en de wet van Ohm
