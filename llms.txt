@@ -127,12 +127,16 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [bpfBOUW pensioenpremie 2026](https://werkbonsoftwaregids.nl/cao/bpfbouw-pensioen/): Wat werkgever en werknemer betalen
 - [Cao Metalektro 2026](https://werkbonsoftwaregids.nl/cao/cao-metalektro/): Salaristabel en voor wie hij geldt
 - [Cao Bouw & Infra 2026](https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/): Garantielonen en rekenhulp
+- [Salaris elektricien en monteur](https://werkbonsoftwaregids.nl/cao/salaris-in-de-installatie/): Minimum volgens de cao, 2026
+- [Cao schilders (SAVG)](https://werkbonsoftwaregids.nl/cao/cao-schilders/): Uurloon 2026 en toeslagen
 
 ### Sjablonen
 
 - [Factuur voorbeeld](https://werkbonsoftwaregids.nl/sjablonen/factuur-voorbeeld/): Word en Excel voor vakmensen
 - [Offerte maken](https://werkbonsoftwaregids.nl/sjablonen/offerte-maken/): Sjabloon en de regels van het BW
 - [Betalingsherinnering](https://werkbonsoftwaregids.nl/sjablonen/betalingsherinnering/): Herinnering en 14-dagenbrief
+- [Werkbon](https://werkbonsoftwaregids.nl/sjablonen/werkbon/): Word en Excel, met handtekening
+- [Opleverrapport](https://werkbonsoftwaregids.nl/sjablonen/opleverrapport/): Gebrekenlijst, depot en termijnen
 
 ### Rekenhulp
 
@@ -146,11 +150,19 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Vakantiegeld berekenen](https://werkbonsoftwaregids.nl/rekenhulp/vakantiegeld-berekenen/): Bruto en netto, 2026
 - [Echte prijs van de software](https://werkbonsoftwaregids.nl/prijsberekening-1-persoon-werkbonsoftware-2026/): Wat je met alles erin betaalt
 
+### Uurtarief
+
+- [Uurtarief stukadoor](https://werkbonsoftwaregids.nl/uurtarief/stukadoor/): Per uur en per m², 2026
+- [Uurtarief schilder](https://werkbonsoftwaregids.nl/uurtarief/schilder/): Cao-loon, 9 % btw en tarief
+- [Uurtarief elektricien](https://werkbonsoftwaregids.nl/uurtarief/elektricien/): Van cao-loon naar tarief, 2026
+- [Uurtarief loodgieter](https://werkbonsoftwaregids.nl/uurtarief/loodgieter/): Ook 's avonds en in het weekend
+
 ### Belasting
 
 - [E-facturatie en Peppol](https://werkbonsoftwaregids.nl/belasting/e-facturatie-peppol/): Nu voor het Rijk, in 2030 voor iedereen
 - [Zelfstandigenaftrek 2026](https://werkbonsoftwaregids.nl/belasting/zelfstandigenaftrek-2026/): € 1.200 en het urencriterium
 - [G-rekening en ketenaansprakelijkheid](https://werkbonsoftwaregids.nl/belasting/g-rekening-ketenaansprakelijkheid/): Hoeveel storten op de g-rekening
+- [Belasting voor zzp'ers in de bouw](https://werkbonsoftwaregids.nl/belasting/belasting-zzp-bouw/): Welke, wanneer en hoeveel opzij
 - [Kleineondernemersregeling (KOR)](https://werkbonsoftwaregids.nl/belasting/kleineondernemersregeling/): Loont het voor jou? Rekensom
 - [Btw verleggen in de bouw](https://werkbonsoftwaregids.nl/belasting/btw-verleggen-bouw/): Check in 5 vragen en factuurtekst
 - [Factuureisen](https://werkbonsoftwaregids.nl/belasting/factuur-eisen/): Afvinklijst voor je factuur
@@ -161,11 +173,16 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 
 - [KVK inschrijven](https://werkbonsoftwaregids.nl/bedrijf/kvk-inschrijven/): Eenmanszaak: data, kosten, stappen
 - [Wet DBA en schijnzelfstandigheid](https://werkbonsoftwaregids.nl/bedrijf/wet-dba-schijnzelfstandigheid/): Stand 2026 en check voor de bouw
+- [Zzp-opdrachten in de bouw](https://werkbonsoftwaregids.nl/bedrijf/zzp-opdrachten-bouw/): Wat je regelt voor je begint
 - [Wettelijke rente op je factuur](https://werkbonsoftwaregids.nl/rekenhulp/wettelijke-rente-berekenen/): Particulier 4 %, zakelijk 10,4 %
 - [Ketenaansprakelijkheid en g-rekening](https://werkbonsoftwaregids.nl/belasting/g-rekening-ketenaansprakelijkheid/): Voor aannemer en onderaannemer
+- [UAV 2012 uitgelegd](https://werkbonsoftwaregids.nl/bedrijf/uav-2012/): Oplevering, meerwerk en termijnen
 - [Aanmaning en incasso](https://werkbonsoftwaregids.nl/bedrijf/aanmaning-en-incasso/): Van vervaldatum tot rechter
 - [Incassokosten en 14-dagenbrief](https://werkbonsoftwaregids.nl/rekenhulp/incassokosten-berekenen/): Wat je mag rekenen bij een wanbetaler
 - [Meerwerk en stelposten](https://werkbonsoftwaregids.nl/bedrijf/meerwerk-en-stelposten/): Wanneer mag je meer rekenen
+- [AOV voor zzp'ers](https://werkbonsoftwaregids.nl/bedrijf/aov-zzp/): Wat er komt en wat nu al kan
+- [Zzp of bv](https://werkbonsoftwaregids.nl/bedrijf/zzp-of-bv/): Wanneer een bv loont, met de som
+- [Wet kwaliteitsborging (Wkb)](https://werkbonsoftwaregids.nl/bedrijf/wet-kwaliteitsborging/): Wat al geldt, en wanneer meer
 
 ### Regels
 
@@ -173,4 +190,6 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Besluit bouwwerken leefomgeving](https://werkbonsoftwaregids.nl/regels/besluit-bouwwerken-leefomgeving/): Welke norm voor jouw installatie
 - [NEN 3140](https://werkbonsoftwaregids.nl/regels/nen-3140/): Wat de wet vraagt en hoe vaak keuren
 - [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
+- [Asbestinventarisatie](https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/): Wanneer verplicht, en de uitzonderingen
+- [Urenregistratie](https://werkbonsoftwaregids.nl/regels/urenregistratie/): Verplicht? Voor personeel en zzp
 - [Spanningsval en kabeldoorsnede](https://werkbonsoftwaregids.nl/rekenhulp/kabeldoorsnede-berekenen/): NEN 1010 en de wet van Ohm

@@ -26,13 +26,10 @@
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/schoonmaakbedrijven/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/schoonmaakbedrijven/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/verhuisbedrijven/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://werkbonsoftwaregids.nl/sjablonen/verhuisbedrijven/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/witgoed-reparatie/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://werkbonsoftwaregids.nl/sjablonen/witgoed-reparatie/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/glaszetters-kozijnen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/glaszetters-kozijnen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/ongediertebestrijding/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://werkbonsoftwaregids.nl/sjablonen/ongediertebestrijding/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/automatische-deuren-poorten/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/automatische-deuren-poorten/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/praktijktest/vve-vastgoedonderhoud/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -234,22 +231,38 @@
   <url><loc>https://werkbonsoftwaregids.nl/regels/besluit-bouwwerken-leefomgeving/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/regels/nen-3140/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/factuur-voorbeeld/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/bedrijf/zzp-opdrachten-bouw/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/wettelijke-rente-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/zelfstandigenaftrek-2026/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/regels/nen-1010/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/offerte-maken/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/g-rekening-ketenaansprakelijkheid/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/bedrijf/uav-2012/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/bedrijf/aanmaning-en-incasso/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/betalingsherinnering/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/incassokosten-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/bedrijf/meerwerk-en-stelposten/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/bedrijf/aov-zzp/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/regels/urenregistratie/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/belasting/belasting-zzp-bouw/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/cao/salaris-in-de-installatie/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/uurtarief/stukadoor/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/werkgeverslasten-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/uurtarief-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/kleineondernemersregeling/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/cao/cao-schilders/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/uurtarief/schilder/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/sjablonen/werkbon/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/btw-verleggen-bouw/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/bedrijf/zzp-of-bv/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/factuur-eisen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/uurtarief/elektricien/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/uurtarief/loodgieter/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/kabeldoorsnede-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/bedrijf/wet-kwaliteitsborging/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/sjablonen/opleverrapport/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/netto-bruto-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/btw-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/vakantiegeld-berekenen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -259,6 +272,7 @@
   <url><loc>https://werkbonsoftwaregids.nl/cao/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/sjablonen/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/rekenhulp/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://werkbonsoftwaregids.nl/uurtarief/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/belasting/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/bedrijf/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://werkbonsoftwaregids.nl/regels/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
