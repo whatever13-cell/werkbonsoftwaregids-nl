@@ -133,6 +133,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Cao Bouw & Infra 2026](https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/): Garantielonen en rekenhulp
 - [Salaris elektricien en monteur](https://werkbonsoftwaregids.nl/cao/salaris-in-de-installatie/): Minimum volgens de cao, 2026
 - [Cao schilders (SAVG)](https://werkbonsoftwaregids.nl/cao/cao-schilders/): Uurloon 2026 en toeslagen
+- [Tijdspaarfonds Bouw & Infra](https://werkbonsoftwaregids.nl/cao/tijdspaarfonds/): Wat erin zit en wanneer het uitbetaalt
 
 ### Sjablonen
 
