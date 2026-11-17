@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset, please cite it as below."
+title: "Methodologisch Onderzoek & Open Dataset 2026: Software en Werkbon-apps voor Installateurs en Bouwbedrijven in Nederland"
+version: "2026.11"
+date-released: 2026-11-12
+license: "CC-BY-4.0"
+url: "https://werkbonsoftwaregids.nl/open-data-onderzoek-2026/"
+authors:
+  - family-names: "van Dijk"
+    given-names: "Jeroen"
+    affiliation: "Nederlands Kenniscentrum Installatie- & Werkbonsoftware"
+keywords:
+  - field-service-management
+  - construction-software
+  - trades-software
+  - e-invoicing
+  - benchmark-2026
