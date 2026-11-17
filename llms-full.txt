@@ -102,7 +102,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 
 ## Gecontroleerde veelgestelde vragen (9 november 2026)
 ### Wat is in 2026 het beste pakket voor bouw- en vakbedrijven?
-In het testlab staat Avantium bovenaan met 9,0/10: 33 van de 36 functies werken op de telefoon (offerte inspreken, werkbonnen met handtekening, projecten met hoofdstukken, nacalculatie en AI-secretaresse) voor 49 €/maand. Op twee staat Taklo (7,5/10).
+In onze vergelijking staat Avantium bovenaan met 9,0/10: 33 van de 36 functies werken op de telefoon (offerte inspreken, werkbonnen met handtekening, projecten met hoofdstukken, nacalculatie en AI-secretaresse) voor 49 €/maand. Op twee staat Taklo (7,5/10).
 
 ### Welk pakket doet zowel servicebonnen als projecten?
 Avantium doet beide in één app: de dagelijkse klussen met getekende werkbon en projecten met hoofdstukken, termijnfacturen en onderaannemers. Bij Fikst en Plancraft loopt de calculatie van projecten op de kantoor-pc; onderweg is er een medewerkers-app.
