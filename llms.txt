@@ -101,6 +101,10 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Software voor installateurs](https://werkbonsoftwaregids.nl/software/software-voor-installateurs/): Kantoor en monteurs apart gerekend
 - [Planningsoftware installateur](https://werkbonsoftwaregids.nl/software/planning-software-installateur/): Planbord: inbegrepen of optie
 - [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, alles inbegrepen
+- [FieldBuddy](https://werkbonsoftwaregids.nl/software/fieldbuddy/): Field service vanaf 5 gebruikers
+- [Robaws](https://werkbonsoftwaregids.nl/software/robaws/): Bouw-ERP in drie pakketten
+- [Syntess Atrium](https://werkbonsoftwaregids.nl/software/syntess-atrium/): ERP voor installatiebedrijven
+- [Vertuoza](https://werkbonsoftwaregids.nl/software/vertuoza/): Bouwsoftware uit België
 - [Urenregistratie met gps](https://werkbonsoftwaregids.nl/urenregistratie-bouw-app-gps/): Apps die het op je telefoon kunnen
 - [Alternatieven voor OutSmart](https://werkbonsoftwaregids.nl/alternatieven-outsmart-2026/): Pakketten om te vergelijken
 
