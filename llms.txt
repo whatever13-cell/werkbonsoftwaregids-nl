@@ -111,7 +111,9 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Cao Bouw & Infra 2026](https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/): Garantielonen en rekenhulp
 - [Salaris elektricien en monteur](https://werkbonsoftwaregids.nl/cao/salaris-in-de-installatie/): Minimum volgens de cao, 2026
 - [Cao schilders (SAVG)](https://werkbonsoftwaregids.nl/cao/cao-schilders/): Uurloon 2026 en toeslagen
+- [Cao Hoveniers 2026-2027](https://werkbonsoftwaregids.nl/cao/cao-hoveniers/): Loonsverhoging en reiskosten
 - [Cao Schoonmaak 2026](https://werkbonsoftwaregids.nl/cao/cao-schoonmaak/): Uurlonen per loongroep en de nieuwe cao
+- [Reisuren en reiskosten bouw](https://werkbonsoftwaregids.nl/cao/reisuren-bouw/): Normtabel van de cao met rekenhulp
 - [Tijdspaarfonds Bouw & Infra](https://werkbonsoftwaregids.nl/cao/tijdspaarfonds/): Wat erin zit en wanneer het uitbetaalt
 
 ### Sjablonen
@@ -150,6 +152,8 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Meerwerk en stelposten](https://werkbonsoftwaregids.nl/bedrijf/meerwerk-en-stelposten/): Wanneer mag je meer rekenen
 - [Wet kwaliteitsborging (Wkb)](https://werkbonsoftwaregids.nl/bedrijf/wet-kwaliteitsborging/): Wat al geldt, en wanneer meer
 - [Garantie en verborgen gebreken](https://werkbonsoftwaregids.nl/bedrijf/garantie-en-verborgen-gebreken/): Hoe lang je aansprakelijk bent
+- [Wat is een onderaannemer?](https://werkbonsoftwaregids.nl/bedrijf/onderaannemer/): Btw verleggen, keten en zzp
+- [UAV-GC 2005 en 2025](https://werkbonsoftwaregids.nl/bedrijf/uav-gc/): Welke versie en het verschil met de UAV 2012
 
 ### Regels
 
@@ -159,4 +163,5 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
 - [Asbestinventarisatie](https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/): Wanneer verplicht, en de uitzonderingen
 - [F-gassen-certificaat](https://werkbonsoftwaregids.nl/regels/f-gassen-certificaat/): Categorie A1 tot E en BRL 100
+- [InstallQ-erkenning](https://werkbonsoftwaregids.nl/regels/installq-erkenning/): Erkenning of certificaat, en wanneer verplicht
 - [SCIOS-keuring](https://werkbonsoftwaregids.nl/regels/scios-keuring/): Welke ketel hoe vaak gekeurd moet worden
