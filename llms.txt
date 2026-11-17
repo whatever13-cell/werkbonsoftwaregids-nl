@@ -111,6 +111,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Cao Bouw & Infra 2026](https://werkbonsoftwaregids.nl/cao/cao-bouw-en-infra/): Garantielonen en rekenhulp
 - [Salaris elektricien en monteur](https://werkbonsoftwaregids.nl/cao/salaris-in-de-installatie/): Minimum volgens de cao, 2026
 - [Cao schilders (SAVG)](https://werkbonsoftwaregids.nl/cao/cao-schilders/): Uurloon 2026 en toeslagen
+- [Cao Schoonmaak 2026](https://werkbonsoftwaregids.nl/cao/cao-schoonmaak/): Uurlonen per loongroep en de nieuwe cao
 - [Tijdspaarfonds Bouw & Infra](https://werkbonsoftwaregids.nl/cao/tijdspaarfonds/): Wat erin zit en wanneer het uitbetaalt
 
 ### Sjablonen
@@ -119,6 +120,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Werkbon](https://werkbonsoftwaregids.nl/sjablonen/werkbon/): Word en Excel, met handtekening
 - [Opleverrapport](https://werkbonsoftwaregids.nl/sjablonen/opleverrapport/): Gebrekenlijst, depot en termijnen
 - [Urenregistratie-template](https://werkbonsoftwaregids.nl/sjablonen/urenregistratie-template/): Weekstaat en urenteller, Word en Excel
+- [Factuur met btw verlegd](https://werkbonsoftwaregids.nl/sjablonen/factuur-btw-verlegd/): Voorbeeld en wat erop moet
 
 ### Rekenhulp
 
@@ -157,3 +159,4 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
 - [Asbestinventarisatie](https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/): Wanneer verplicht, en de uitzonderingen
 - [F-gassen-certificaat](https://werkbonsoftwaregids.nl/regels/f-gassen-certificaat/): Categorie A1 tot E en BRL 100
+- [SCIOS-keuring](https://werkbonsoftwaregids.nl/regels/scios-keuring/): Welke ketel hoe vaak gekeurd moet worden
