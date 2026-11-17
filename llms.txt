@@ -103,6 +103,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, alles inbegrepen
 - [FieldBuddy](https://werkbonsoftwaregids.nl/software/fieldbuddy/): Field service vanaf 5 gebruikers
 - [Robaws](https://werkbonsoftwaregids.nl/software/robaws/): Bouw-ERP in drie pakketten
+- [Software voor de bouw](https://werkbonsoftwaregids.nl/software/bouwsoftware/): Welke soort je nodig hebt
 - [Syntess Atrium](https://werkbonsoftwaregids.nl/software/syntess-atrium/): ERP voor installatiebedrijven
 - [Vertuoza](https://werkbonsoftwaregids.nl/software/vertuoza/): Bouwsoftware uit België
 - [Urenregistratie met gps](https://werkbonsoftwaregids.nl/urenregistratie-bouw-app-gps/): Apps die het op je telefoon kunnen
@@ -139,16 +140,19 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Uurtarief schilder](https://werkbonsoftwaregids.nl/uurtarief/schilder/): Cao-loon, 9 % btw en tarief
 - [Uurtarief elektricien](https://werkbonsoftwaregids.nl/uurtarief/elektricien/): Van cao-loon naar tarief, 2026
 - [Uurtarief loodgieter](https://werkbonsoftwaregids.nl/uurtarief/loodgieter/): Ook 's avonds en in het weekend
+- [Uurtarief hovenier](https://werkbonsoftwaregids.nl/uurtarief/hovenier/): Gemiddelde en wat jij nodig hebt
 - [Uurtarief timmerman](https://werkbonsoftwaregids.nl/uurtarief/timmerman/): Van cao-loon naar tarief, 2026
 - [Uurtarief tegelzetter](https://werkbonsoftwaregids.nl/uurtarief/tegelzetter/): Per uur en per m², 2026
 - [Uurtarief dakdekker](https://werkbonsoftwaregids.nl/uurtarief/dakdekker/): Kostprijs, isolatie en veiligheid
 - [Uurtarief installateur](https://werkbonsoftwaregids.nl/uurtarief/installateur/): Cv, warmtepomp en water, van cao-loon naar tarief
+- [Uurtarief zzp in de bouw](https://werkbonsoftwaregids.nl/uurtarief/zzp-bouw/): Vanaf het cao-loon gerekend
 
 ### Belasting
 
 - [Zelfstandigenaftrek 2026](https://werkbonsoftwaregids.nl/belasting/belasting-zzp-bouw/): € 1.200 en het urencriterium
 - [G-rekening en ketenaansprakelijkheid](https://werkbonsoftwaregids.nl/belasting/g-rekening-ketenaansprakelijkheid/): Hoeveel storten op de g-rekening
 - [Btw verleggen in de bouw](https://werkbonsoftwaregids.nl/belasting/btw-verleggen-bouw/): Check in 5 vragen en factuurtekst
+- [Btw in de bouw: 9 of 21 %](https://werkbonsoftwaregids.nl/belasting/btw-tarief-bouw/): Per klus, met keuzehulp
 
 ### Bedrijf
 
@@ -168,5 +172,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [NEN 1010](https://werkbonsoftwaregids.nl/regels/nen-1010/): Welke uitgave de wet verplicht
 - [Asbestinventarisatie](https://werkbonsoftwaregids.nl/regels/asbestinventarisatie/): Wanneer verplicht, en de uitzonderingen
 - [F-gassen-certificaat](https://werkbonsoftwaregids.nl/regels/f-gassen-certificaat/): Categorie A1 tot E en BRL 100
+- [Zones in de badkamer (NEN 1010)](https://werkbonsoftwaregids.nl/regels/badkamer-zones/): Met zonecheck op maat
 - [InstallQ-erkenning](https://werkbonsoftwaregids.nl/regels/installq-erkenning/): Erkenning of certificaat, en wanneer verplicht
+- [Meterkast: afmetingen en eisen](https://werkbonsoftwaregids.nl/regels/meterkast-afmetingen/): Controleer je eigen maten
 - [SCIOS-keuring](https://werkbonsoftwaregids.nl/regels/scios-keuring/): Welke ketel hoe vaak gekeurd moet worden
