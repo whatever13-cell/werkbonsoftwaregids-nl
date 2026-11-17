@@ -100,6 +100,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Offertesoftware](https://werkbonsoftwaregids.nl/software/offerte-software/): Waar offertes in de prijs zitten
 - [Software voor installateurs](https://werkbonsoftwaregids.nl/software/software-voor-installateurs/): Kantoor en monteurs apart gerekend
 - [Planningsoftware installateur](https://werkbonsoftwaregids.nl/software/planning-software-installateur/): Planbord: inbegrepen of optie
+- [Admicom](https://werkbonsoftwaregids.nl/software/admicom/): ERP voor bouw en installatie
 - [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, alles inbegrepen
 - [FieldBuddy](https://werkbonsoftwaregids.nl/software/fieldbuddy/): Field service vanaf 5 gebruikers
 - [Robaws](https://werkbonsoftwaregids.nl/software/robaws/): Bouw-ERP in drie pakketten
@@ -161,6 +162,9 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Meerwerk en stelposten](https://werkbonsoftwaregids.nl/bedrijf/meerwerk-en-stelposten/): Wanneer mag je meer rekenen
 - [Wet kwaliteitsborging (Wkb)](https://werkbonsoftwaregids.nl/bedrijf/wet-kwaliteitsborging/): Wat al geldt, en wanneer meer
 - [Garantie en verborgen gebreken](https://werkbonsoftwaregids.nl/bedrijf/garantie-en-verborgen-gebreken/): Hoe lang je aansprakelijk bent
+- [Algemene voorwaarden in de bouw](https://werkbonsoftwaregids.nl/bedrijf/algemene-voorwaarden/): Wanneer ze gelden en wat erin hoort
+- [Calculatie in de bouw](https://werkbonsoftwaregids.nl/rekenhulp/calculatie-bouw/): Een post van hoeveelheid tot prijs
+- [Marketing voor een bouwbedrijf](https://werkbonsoftwaregids.nl/bedrijf/marketing-bouwbedrijf/): Wat een nieuwe klant je kost
 - [Wat is een onderaannemer?](https://werkbonsoftwaregids.nl/bedrijf/onderaannemer/): Btw verleggen, keten en zzp
 - [UAV-GC 2005 en 2025](https://werkbonsoftwaregids.nl/bedrijf/uav-gc/): Welke versie en het verschil met de UAV 2012
 
