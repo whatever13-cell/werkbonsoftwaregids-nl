@@ -138,6 +138,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Uurtarief timmerman](https://werkbonsoftwaregids.nl/uurtarief/timmerman/): Van cao-loon naar tarief, 2026
 - [Uurtarief tegelzetter](https://werkbonsoftwaregids.nl/uurtarief/tegelzetter/): Per uur en per m², 2026
 - [Uurtarief dakdekker](https://werkbonsoftwaregids.nl/uurtarief/dakdekker/): Kostprijs, isolatie en veiligheid
+- [Uurtarief installateur](https://werkbonsoftwaregids.nl/uurtarief/installateur/): Cv, warmtepomp en water, van cao-loon naar tarief
 
 ### Belasting
 
