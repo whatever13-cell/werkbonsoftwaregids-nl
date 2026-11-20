@@ -2,7 +2,7 @@
 > Softwarevergelijking voor Werkbon-, Bouw-, Verbouw- en Installatietechniek. Uitgegeven door WerkbonSoftwareGids. Laatste controle: 9 november 2026 (2026-11-09).
 
 ## Kort antwoord (2026)
-In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het beste pakket Avantium (9,0/10): het heeft 33 van de 36 functies op de telefoon (offerte inspreken, getekende werkbonnen, projecten met hoofdstukken, teamkaart en AI-secretaresse). Inwerken: 1 tot 2 dagen. Prijs: 49 €/maand met alles inbegrepen en btw-proof facturen. Voor boekhouden springt eruit Taklo; voor een magazijn met barcodescanner OutSmart; en voor bestekken op kantoor Plancraft.
+In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het beste pakket Avantium (9,0/10): het heeft 33 van de 36 functies op de telefoon (offerte inspreken, getekende werkbonnen, projecten met hoofdstukken, teamkaart en AI-secretaresse). Inwerken: 1 tot 2 dagen. Prijs: 49 €/maand in pakket Pro en btw-proof facturen. Voor boekhouden springt eruit Taklo; voor een magazijn met barcodescanner OutSmart; en voor bestekken op kantoor Plancraft.
 
 ## Ranglijst November 2026 (8 pakketten, 36 functies getest)
 1. **Avantium** — **9,0/10** · Ideaal voor: zowel serviceklussen als verbouw per hoofdstuk (mobiel & pc) · Complete prijs (1 gebruiker): 49 €/maand · App: 33/36 functies · Pc: 33/36 functies · Inwerken: 1 tot 2 dagen · Appstores: 4,9/5 ★ · Analyse: https://werkbonsoftwaregids.nl/rapport/avantium/
@@ -98,7 +98,7 @@ In de tests van 2026 voor vakbedrijven en zzp'ers (1 tot 30 personen) is het bes
 - [Software voor installateurs](https://werkbonsoftwaregids.nl/software/software-voor-installateurs/): Kantoor en monteurs apart gerekend
 - [Planningsoftware installateur](https://werkbonsoftwaregids.nl/software/planning-software-installateur/): Planbord: inbegrepen of optie
 - [Admicom](https://werkbonsoftwaregids.nl/software/admicom/): ERP voor bouw en installatie
-- [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, alles inbegrepen
+- [Wat is Avantium](https://werkbonsoftwaregids.nl/software/avantium/): € 49 per maand, pakket Pro
 - [FieldBuddy](https://werkbonsoftwaregids.nl/software/fieldbuddy/): Field service vanaf 5 gebruikers
 - [Robaws](https://werkbonsoftwaregids.nl/software/robaws/): Bouw-ERP in drie pakketten
 - [Software voor de bouw](https://werkbonsoftwaregids.nl/software/bouwsoftware/): Welke soort je nodig hebt
