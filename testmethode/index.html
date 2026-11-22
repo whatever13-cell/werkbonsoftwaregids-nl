@@ -1076,7 +1076,8 @@ table.calor:has(thead tr>th:nth-child(3):last-child) tbody th a,table.tareas:has
 }
 
 .inf-ficha .pill{font:600 13px var(--txt)!important;letter-spacing:0!important;text-transform:none!important;background:var(--papel)!important;color:var(--gris)!important;padding:6px 12px!important;border-radius:99px!important}
-@media(max-width:640px){.inf-a{display:flex!important;flex-wrap:wrap;align-items:center;gap:14px!important}.inf-a>img.lg{width:56px!important;height:56px!important;order:1}.inf-a>.inf-nota{order:2;margin-left:auto}.inf-a>div:not(.inf-nota){order:3;flex-basis:100%}.inf-a h1{font-size:30px!important}}
+@media(min-width:701px){.inf-a{display:grid!important;grid-template-columns:84px minmax(0,1fr) auto!important;gap:22px!important;align-items:flex-start!important}.inf-a>.inf-nota{justify-self:end!important;align-self:flex-start!important}.inf-a h1{font-size:clamp(26px,3.4vw,38px)!important;line-height:1.1!important}}
+@media(max-width:700px){.inf-a{display:flex!important;flex-wrap:wrap;align-items:center;gap:14px!important}.inf-a>img.lg{width:58px!important;height:58px!important;order:1}.inf-a>.inf-nota{order:2;margin-left:auto;grid-column:auto!important}.inf-a>div:not(.inf-nota){order:3;flex-basis:100%}.inf-a h1{font-size:26px!important;line-height:1.14!important}}
 .page>table,.page table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 
 .sx-cab .logo,.sx-pie .logo{text-decoration:none}
@@ -1145,6 +1146,11 @@ html{scroll-padding-top:84px!important}
 .sx-rk .sx-rk-nt{padding-left:6px}
 
 .ed-pq h3{color:var(--tinta)!important}
+.sdo-ficha-tab{width:100%;border-collapse:collapse;font-size:15px}
+.sdo-ficha-tab th,.sdo-ficha-tab td{padding:13px 18px;border-bottom:1px solid var(--linea);text-align:left;vertical-align:top}
+.sdo-ficha-tab tr:last-child th,.sdo-ficha-tab tr:last-child td{border-bottom:0}
+.sdo-ficha-tab th{width:220px;font:650 14px var(--txt);color:var(--tinta);background:#FAFBFD}
+@media(max-width:640px){.sdo-ficha-tab tr{display:block;padding:12px 16px;border-bottom:1px solid var(--linea)}.sdo-ficha-tab th,.sdo-ficha-tab td{display:block;width:100%;padding:0;border:0;background:none}.sdo-ficha-tab th{font-size:12px;color:var(--gris);text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px}}
 
 
 .sx-cab .logo{display:inline-flex;align-items:center}
